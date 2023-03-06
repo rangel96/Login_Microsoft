@@ -1,0 +1,10 @@
+<br/>
+<h4>Hello {{ getAllInfo?.name }}!</h4>
+<pre>{{ getAllInfo | json }}</pre>
+
+<br/>
+
+<button class="btn btn-primary" (click)="getProfile()">Call Profile</button>
+<button class="btn btn-primary ms-3" (click)="getEmails()">Call Email</button>
+<h4>API Response:</h4>
+<pre>{{ apiResponse | json }}</pre>

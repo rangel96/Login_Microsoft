@@ -2,6 +2,16 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
 
+## Versions
+- Angular CLI: 15.0.1v 
+- Angular: 15.0.1v
+- Node: 18.12.1v
+- npm: 9.1.3v
+
+## Dependencies install
+- [@azure-msal](https://www.youtube.com/watch?v=TkCKqeYjpv0&t=242s): npm install @azure/msal-angular @azure/msal-browser --save
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
